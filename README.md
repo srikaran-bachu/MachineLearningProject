@@ -9,6 +9,10 @@ Download the requirements:
 $ pip3 install -r requirements.txt
 
 Run the Python fiile runner.py with either FanDuel odds or DraftKings odds.
+
+
+
 $ python3 runner.py -xgb -odds=fanduel
+
 $ python3 runner.py -xgb -odds=draftkings
 
